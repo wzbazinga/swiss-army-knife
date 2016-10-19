@@ -1,2 +1,2 @@
-# swiss-army-knife
-my small useful tools
+# SwissArmyKnife
+small useful tools
